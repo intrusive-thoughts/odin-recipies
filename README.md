@@ -10,5 +10,5 @@
 8. Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe. ✔️
 9. Under the description, add an “Ingredients” heading followed by an unordered list of the ingredients needed for the recipe. ✔️
 10. Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish. ✔️
-11. Add two more recipes with identical page structures.
-12. Link to the new recipes on the index page. Consider putting the links in an unordered list.
+11. Add two more recipes with identical page structures. ✔️
+12. Link to the new recipes on the index page. Consider putting the links in an unordered list. ✔️
